@@ -14,6 +14,8 @@ The work itself has been done using Edge Impulse. The data, code, and generated 
 LINK TO EDGE IMPULSE:
 https://studio.edgeimpulse.com/public/39443/latest
 
+LINK TO PROJECT VIDEO:
+https://www.youtube.com/watch?v=AxE7QkXZY3I
 
 
 
